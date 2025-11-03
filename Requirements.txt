@@ -1,0 +1,11 @@
+Installed Packages:
+
+beautifulsoup4
+snowflake
+snowflake-ml-python
+snowflake-snowpark-python
+python
+streamlit
+
+
+DOCUMENTS FOR CBAM: https://bit.ly/49zlxtM
