@@ -1,0 +1,12 @@
+
+🧱 Setup Instructions
+
+1. Setup a Snowflake Account. When signing up for a 30-day free trial account, make sure to select AWS WEST.  
+2. Run the Setup ACCOUNTADMIN Role SQL file.
+3. Run the EnableCrossRegion SQL file.
+4. Clone the repo. 
+5. Load the Customer Conversion notebook 
+6. Add a new Streamlit app then replace the script to the one in Streamlit.CCapp file
+
+IF you any parts of the code do not run - Copilot it! 
+
