@@ -18,7 +18,7 @@ PROJECT STRUCTURE
 ├── assets/                            # Screenshots or visuals
     └──StreamlitChatUI.jpg                          # Streamlit interface for CBAM chatbot
     └──NotebookChatUI.jpg                           # Notebooks-based interface for chatbot testi
-    └──Document Library CBAM GHG.jpg        # Indexed CBAM policy documents library
+    └──IndexedDocumentLibrary.jpg        # Indexed CBAM policy documents library
 
     
 # 🧠 CBAM GHG Assistant 
