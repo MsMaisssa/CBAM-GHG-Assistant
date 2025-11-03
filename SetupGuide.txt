@@ -2,11 +2,16 @@
 🧱 Setup Instructions
 
 1. Setup a Snowflake Account. When signing up for a 30-day free trial account, make sure to select AWS WEST.  
-2. Run the Setup ACCOUNTADMIN Role SQL file.
-3. Run the EnableCrossRegion SQL file.
-4. Clone the repo. 
-5. Load the Customer Conversion notebook 
-6. Add a new Streamlit app then replace the script to the one in Streamlit.CCapp file
+2. Fork the repo/download the project files
+3. Run the Setup ACCOUNTADMIN Role SQL file.
+4. Run the EnableCrossRegion SQL file.
+5. Run the DBSCHEMA SQL file.
+6. Download the CMAB/GHG document library https://bit.ly/49zlxtM
+7. Add files to Anthropic RAG DB (Step 4)
+8. Load and run the CBAM-GHG-Chatbot notebook 
+9. Add a new Streamlit app then replace the script with the one in Streamlit.Chatapp file
+10. To prompt, first clear conversation. Assistant then will fetch the price.
 
-IF you any parts of the code do not run - Copilot it! 
 
+Test scenarios and use cases are available for view.
+IF any part of the code does not run - Copilot it or ask Claude AI!  
