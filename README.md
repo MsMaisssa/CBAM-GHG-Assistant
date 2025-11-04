@@ -4,6 +4,7 @@ Documentation-grounded assistant for calculating carbon border adjustment costs 
 Disclamer: This project was forked from Snowflake-Labs, and modified for the use case CBAM-GHG Assistant:
 site/sfguides/src/getting-started-with-anthropic-on-snowflake-cortex/getting-started-with-anthropic-on-snowflake-cortex.md
 
+VIdeo walkthorugh - see it before you build it: https://www.loom.com/share/13bda48fa3274492aba62b9b389864ed
 
 PROJECT STRUCTURE
 ├── README.md
